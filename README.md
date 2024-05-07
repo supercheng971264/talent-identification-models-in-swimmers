@@ -1,2 +1,2 @@
 # talent-identification-models-in-swimmers
-There is a talent identification model construction process for swimmers.
+In this part, we constructed a talent prediction model based on the anthropometic and physiological indicators, well validated on the preserved test dataset and an independent dataset from Shandong. Additionally, this code part we showed the code for visualization of ROC and SHAP values. In term of the built models, we utilized the common 9 machine learning algorithms with the RF (random forest) indicating the highest performance as the finalized model.
